@@ -1,0 +1,86 @@
+{
+    "version": 1,
+    "partitions": [
+      {
+        "topic": "test",
+        "partition": 0,
+        "replicas": [1]
+      },
+      {
+        "topic": "test",
+        "partition": 1,
+        "replicas": [1]
+      },
+      {
+        "topic": "test",
+        "partition": 2,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-command",
+        "partition": 0,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 0,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 1,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 2,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 3,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 4,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 5,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 6,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 7,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 8,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 9,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 10,
+        "replicas": [1]
+      },
+      {
+        "topic": "_confluent-metrics",
+        "partition": 11,
+        "replicas": [1]
+      }
+    ]
+  }
+  
